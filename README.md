@@ -33,6 +33,9 @@ Additionally you can create a new folder in the same level of the rest of folder
 
 
 ////////
+Check it out a quick demo here >
+https://www.youtube.com/watch?v=UANlyS5_-1E
+///////
 N·Joy Sonic Generative Algorythms ^_^
 
 
