@@ -36,6 +36,18 @@ Additionally you can create a new folder in the same level of the rest of folder
 Check it out a quick demo here >
 https://www.youtube.com/watch?v=UANlyS5_-1E
 ///////
+For slow processors reccomended pd setup
+samplerate 44100
+blocksize 64
+delay between 60--90
+GUI custom Autopatching > OFF/unselected (in purr version)
+
+///////
 N·Joy Sonic Generative Algorythms ^_^
+
+
+/// gnrtv.cells 2026
+// by Xavi·Manzanares 
+/ Github + IG + bksy  @xamanza
 
 
